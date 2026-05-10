@@ -9,10 +9,15 @@ The bean theme has pastel like muddy and earthy undertones which create this dim
 - LSP semantic token support
 - Diagnostic highlights
 - Plugin highlights for snacks and indent guides
-![preview](assets/screenshot_2026-05-10_11-34-03.png)
+
+---
+
+# Preview
 ![preview](assets/screenshot_2026-05-10_12-28-34.png)
 ![preview](assets/screenshot_2026-05-10_12-29-04.png)
 ![preview](assets/screenshot_2026-05-10_12-30-07.png)
+
+---
 
 ## install
 Lazy.nvim:
