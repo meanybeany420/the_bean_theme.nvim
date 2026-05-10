@@ -1,4 +1,6 @@
-The Bean theme:
+# bean_theme.nvim
+
+### The Bean theme:
 
 The bean theme has pastel like muddy and earthy undertones which create this dim and dusty feel.
 
