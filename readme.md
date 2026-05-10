@@ -13,7 +13,7 @@ The bean theme has pastel like muddy and earthy undertones which create this dim
 
 ## install
 Lazy.nvim:
-
+'''lua
 {
   "meanybeany420/the_bean_theme.nvim",
   lazy = false,
@@ -22,8 +22,9 @@ Lazy.nvim:
     vim.cmd.colorscheme("bean_theme")
   end,
 }
-
+'''
 ### local deployment
+'''lua
 {
   dir = vim.fn.expand("~/bean.nvim"),
   name = "bean_theme",
@@ -33,3 +34,4 @@ Lazy.nvim:
     vim.cmd.colorscheme("bean_theme")
   end,
 }
+'''
