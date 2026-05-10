@@ -1,4 +1,4 @@
-# bean_theme.nvim
+# <span style="color:#bb8861">bean_theme.nvim </span>
 
 ### The Bean theme:
 
